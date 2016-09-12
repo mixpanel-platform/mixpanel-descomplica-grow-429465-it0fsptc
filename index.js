@@ -1,4 +1,4 @@
-var token = "mobilegaming"
+var token = " 760dfcc19d45ca96a003a0643baf7f3a"
 
 $(document).ready(function() {
 	initializeMixpanel()
